@@ -1,0 +1,11 @@
+
+public/
+.deploy*/
+
+
+node_modules/
+.DS_Store
+Thumbs.db
+*.log
+
+_config.yml.bak
